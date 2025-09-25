@@ -1,0 +1,10 @@
+D:\vv>java Server
+Server Waiting for image
+Client connected.
+Image Size: 56KB
+
+D:\vv>java Client
+Client is running.
+Reading image from disk.
+Sending image to server.
+Image sent to server.
